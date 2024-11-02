@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: beatifulmultiselectsearch-de_DE\n"
+"POT-Creation-Date: 2016-01-05 15:36+0100\n"
+"PO-Revision-Date: 2016-01-05 15:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: beautifulmultiselectsearch06\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: class.beautiful-multiselect-search-widget.php\n"
+
+#: js/jquery-ui-1.11.2/jquery-ui.min.js:8
+msgid "'"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:5
+msgid "How many Beautiful Multiselect Search Pages do you need"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:30
+#: admintemplate/admin-page-template-default.php:63
+msgid "How to use beautiful multiselect search "
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:34
+#: admintemplate/admin-page-template-default.php:67
+msgid "STEP 1"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:36
+#: admintemplate/admin-page-template-default.php:42
+#: admintemplate/admin-page-template-default.php:69
+#: admintemplate/admin-page-template-default.php:75
+msgid "Go to left menu"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:36
+#: admintemplate/admin-page-template-default.php:69
+msgid "Appearance"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:36
+#: admintemplate/admin-page-template-default.php:42
+#: admintemplate/admin-page-template-default.php:69
+#: admintemplate/admin-page-template-default.php:75
+msgid "and then"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:36
+#: admintemplate/admin-page-template-default.php:69
+msgid "Widgets"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:37
+#: admintemplate/admin-page-template-default.php:70
+msgid "Drag and Drop"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:37
+#: admintemplate/admin-page-template-default.php:70
+msgid "Plugin from left"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:37
+#: admintemplate/admin-page-template-default.php:70
+msgid "Available Widgets"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:37
+#: admintemplate/admin-page-template-default.php:70
+msgid "to Right"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:37
+#: admintemplate/admin-page-template-default.php:70
+msgid "Then click on"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:37
+#: admintemplate/admin-page-template-default.php:38
+#: admintemplate/admin-page-template-default.php:70
+#: admintemplate/admin-page-template-default.php:71
+msgid "Save"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:37
+#: admintemplate/admin-page-template-default.php:38
+#: admintemplate/admin-page-template-default.php:70
+#: admintemplate/admin-page-template-default.php:71
+msgid "Button"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:38
+#: admintemplate/admin-page-template-default.php:71
+msgid ""
+"Choose the title, the default category (use when no criteria are selected), "
+"and the different main categories...Then click again on"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:40
+#: admintemplate/admin-page-template-default.php:73
+msgid "STEP 2"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:42
+#: admintemplate/admin-page-template-default.php:75
+msgid "Pages"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:42
+#: admintemplate/admin-page-template-default.php:75
+msgid "Add New"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:43
+#: admintemplate/admin-page-template-default.php:76
+msgid "Fill only the page title"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:44
+#: admintemplate/admin-page-template-default.php:77
+msgid "On the right side select"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:44
+#: admintemplate/admin-page-template-default.php:77
+msgid "Then Click on"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:44
+#: admintemplate/admin-page-template-default.php:77
+msgid "Publish"
+msgstr ""
+
+#: admintemplate/admin-page-template-default.php:44
+#: admintemplate/admin-page-template-default.php:77
+msgid "It's done"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:6
+msgid "LOAD A PREDEFINED THEME"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:13
+msgid "More Themes..."
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:20
+#: admintemplate/admin-page-template-text.php:4
+msgid "CHANGE COLORS"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:25
+#: admintemplate/admin-page-template-options.php:101
+msgid "Bullet"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:29
+msgid "Bullet Hover and Selected Criteria BG"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:33
+msgid "Bullet Border and Criteria Bottom Border"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:37
+msgid "Bullet Border Hover"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:41
+msgid "Title Text"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:45
+msgid "Title Border"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:49
+msgid "Main Category Text"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:53
+msgid "Criteria Text"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:57
+msgid "Title Selected Criteria Text"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:62
+msgid "Selected Criteria Text"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:66
+msgid "Selected Criteria Text Hover"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:70
+msgid "Selected Criteria Border"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:74
+msgid "Selected Criteria BG Hover"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:78
+msgid "Cancel Selected Criteria Text"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:82
+msgid "Cancel Selected Criteria BG"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:86
+msgid "Cancel Selected Criteria Border"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:103
+msgid "Square"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:106
+msgid "Circle"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:108
+msgid "Width"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:119
+msgid "Selected Criteria Cross Color"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:128
+msgid "Selected Criteria Cross Color Hover"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:137
+msgid "Question Mark Color"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:143
+msgid "Question Mark BG Color"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:145
+msgid "Question Mark Border Color"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:147
+msgid "Question Mark Border Radius"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:152
+msgid "! Please enter a number between 0 and 50"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:168
+msgid "! Please enter a number between 0 and 99"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:173
+msgid "margin with title"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:180
+msgid "No Question Mark"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:181
+#: admintemplate/admin-page-template-options.php:182
+msgid "Question Mark Shadow"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:187
+#: admintemplate/admin-page-template-options.php:203
+msgid "! Please enter a number between 0 and 9"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:192
+#: admintemplate/admin-page-template-options.php:208
+msgid "shadow"
+msgstr ""
+
+#: admintemplate/admin-page-template-options.php:224
+#: admintemplate/admin-page-template-text.php:20
+#: admintemplate/advancedadmin-page-template-options.php:182
+msgid "CLEAR ALL VALUES"
+msgstr ""
+
+#: admintemplate/admin-page-template-text.php:9
+msgid "SEARCH COLOMN TEXT MODIFICATION"
+msgstr ""
+
+#: admintemplate/admin-page-template-text.php:14
+msgid "RESULT COLOMN TEXT MODIFICATION"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:10
+msgid ""
+"Please be sure that you have CSS knowledge before changing these parameters."
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:18
+msgid "LOAD MINIMAL Advanced CSS"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:27
+msgid "Pagination"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:28
+msgid "Results per page"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:34
+msgid "Result Counter"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:37
+msgid "Search Wrap Width"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:46
+#: admintemplate/advancedadmin-page-template-options.php:61
+msgid "! Please enter a number between 10 and 90"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:53
+msgid "Result Wrap Width"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:71
+msgid "! The addition of Search Wrap Width and Result Wrap Widht must be <=100"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:78
+msgid "SAVE FAILED"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:94
+msgid "Margin Top BMS Global Wrap"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:109
+msgid "! The value should be < 9999"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:116
+msgid "Margin Bottom BMS Global Wrap"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:132
+msgid "Margin Right BMS Global Wrap"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:150
+msgid "Margin Left BMS Global Wrap"
+msgstr ""
+
+#: admintemplate/advancedadmin-page-template-options.php:168
+msgid "Search Colomn Position"
+msgstr ""
+
+#: class.beautiful-multiselect-search-admin.php:26
+msgid "Add BMS Search"
+msgstr ""
+
+#: class.beautiful-multiselect-search-admin.php:29
+msgid "Colors and Themes"
+msgstr ""
+
+#: class.beautiful-multiselect-search-admin.php:32
+msgid "Advanced Options"
+msgstr ""
+
+#: class.beautiful-multiselect-search-admin.php:35
+msgid "Text Modifications"
+msgstr ""
+
+#: class.beautiful-multiselect-search-admin.php:38
+msgid "FAQ"
+msgstr ""
+
+#: class.beautiful-multiselect-search-widget.php:140
+#: class.beautiful-multiselect-search-widget.php:144
+msgid "YOUR SELECTION"
+msgstr "IHRE AUSWAHL"
+
+#: class.beautiful-multiselect-search-widget.php:177
+#: class.beautiful-multiselect-search-widget.php:181
+msgid "DELETE ALL CRITERIAS"
+msgstr "ALLE KRITERIEN AUFHEBEN"
+
+#: class.beautiful-multiselect-search-widget.php:271
+msgid ""
+"You have to put Beautiful Multiselect Search Widget in Beautiful Multiselect "
+"Search Sidebar and not in another Sidebar."
+msgstr ""
+
+#: class.beautiful-multiselect-search-widget.php:273
+msgid ""
+"Don't worry, it's very easy and fast to modify, go to menu Appearance "
+"Widgets and drag and drop the widget in the Beautiful Multiselect Search "
+"Sidebar."
+msgstr ""
+
+#: class.beautiful-multiselect-search-widget.php:478
+msgid "Search results"
+msgstr "Ihrer Forschungsergebnisse"
+
+#: class.beautiful-multiselect-search-widget.php:484
+msgid "Search result"
+msgstr "Ihrer Forschungsergebnisse"
+
+#: class.beautiful-multiselect-search-widget.php:522
+#: class.beautiful-multiselect-search-widget.php:526
+msgid "Read more"
+msgstr "Lire la u gang"
+
+#: class.beautiful-multiselect-search-widget.php:553
+#: class.beautiful-multiselect-search-widget.php:557
+msgid "Page: "
+msgstr "Seite:"
+
+#: class.beautiful-multiselect-search-widget.php:596
+msgid "No result."
+msgstr "Keine Ergebnisse."

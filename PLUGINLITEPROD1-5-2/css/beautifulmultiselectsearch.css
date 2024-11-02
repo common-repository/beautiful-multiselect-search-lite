@@ -1,0 +1,316 @@
+/* CSS PLUGIN BEAUTIFUL MULTISELECT SELECT SEARCH */
+
+/*-------------*/
+/* RESULT ZONE */ 
+/*-------------*/
+
+.bms-resultat-recherche {
+	padding: 17px 20px 0px 0px;
+}
+.bms-noresult {
+	padding: 0px 0px 54px 6%;
+}
+a.bms-read-more {
+	position: relative; display: inline-block;
+	padding: 0px 5px 0px 0px; 
+	cursor: pointer;
+}
+img.bms-imgreadmore {
+	padding-left: 4px; 
+	padding-bottom: 1px;
+}
+.bms_pagination {
+	margin-top: 30px;
+}
+a.bms-apageresult {
+	display: inline;
+	text-decoration: none;
+	position: relative;
+	padding: 0px 1px;
+	margin: 0 4px 0 0;
+	text-align: center;
+	cursor: pointer;
+}
+.bms-resultposttitle {
+	margin-top: 20px;
+}
+
+/*-----------------*/
+/* END RESULT ZONE */ 
+/*-----------------*/
+
+
+/*-------------*/
+/* SEARCH ZONE */ 
+/*-------------*/
+
+/*--------------------*/
+/* HEADER SEARCH ZONE */
+/*--------------------*/
+.bms-titrerecherche {
+	width: 100%;
+	display: inline-block;
+	padding: 10px 0px 8px 0px;
+	margin: 0;
+	vertical-align: middle !important;
+}
+.bms-titrerecherche .bmstitrerecherchetexte{
+	line-height: 100%;
+	vertical-align: middle;
+	display: inline-block;
+	margin: 0px;
+	padding: 3px 0px 0px;
+	font-size: 110%;
+	font-weight: bold;
+}
+.bms-titrerecherche .bms-point-interrogation {
+	display: inline-block;
+	width: 36px; height: 36px;
+	position: relative !important;
+	padding: 0;
+	margin-left:0; margin-top:0; margin-bottom: 0;
+	text-align: center;
+	vertical-align: middle !important;
+}
+.bms-titrerecherche .bms-point-interrogation  .bms-boite-interrogation {
+	box-sizing: content-box !important;
+	width: 20px;
+	position: relative !important;;
+	margin:0 auto !important;
+	padding: 0 !important;
+	vertical-align: top !important;
+}
+.bms-titrerecherche .bms-point-interrogation  .bms-boite-interrogation img {
+	margin: 0; padding: 0;
+	height: 20px !important;
+	position: relative !important;;
+	top: 7px !important;
+	vertical-align: top !important;
+	display: inline;
+	}
+/*------------------------*/
+/* END HEADER SEARCH ZONE */
+/*------------------------*/
+
+/*----------*/
+/* CRITERIA */
+/*----------*/
+ul.bms-critere-avec-sous-categorie {
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	border-width: 0px 0px 1px 0px;
+	list-style: none !important;
+}
+
+.widget ul.bms-critere-avec-sous-categorie li.bms-liavecsouscategorie:before {
+	content: none !important;
+}
+
+.widget ul.bms-critere-avec-sous-categorie li.bms-liavecsouscategorie:after {
+	content: none !important;
+}
+
+
+ul.bms-critere-avec-sous-categorie li.bms-liavecsouscategorie{
+	padding: 0px 0px 0px 20px;
+	margin: 0;
+}
+
+ul.bms-critere-avec-sous-categorie li.bms-liavecsouscategorie:first-child{
+	padding: 0px 0px 0px 20px;
+	margin: 0;
+	border-width: 0px;
+}
+a.bms-sous-categorie {
+	border-width: 0px !important; 
+	text-decoration: none !important;
+	vertical-align: bottom;
+	cursor: pointer;
+	padding: 0;
+}
+ul.bms-critere-sans-sous-categorie {
+	padding: 10px 0px 0px 0px !important;
+	border-width: 0px 0px 0px 0px;
+	margin: 0;
+}
+
+ul.bms-critere-sans-sous-categorie li {
+	list-style: none;
+}
+ul.bms-critere-sans-sous-categorie li.bms-lisanssouscategorie {
+	border: 0px;
+}
+ul.bms-critere-sans-sous-categorie li.bms-lisanssouscategorie:before {
+	content: none !important;
+}
+ul.bms-critere-sans-sous-categorie li.bms-lisanssouscategorie:after {
+	content: none !important;
+}
+.bms-selecteur-sous-categorie {
+	display: inline-block;
+	margin: 0px 10px 0px 0px;
+	padding: 0;
+}
+.bms-selecteur-sous-categorie:hover {
+	border: 1px solid blue;
+}
+
+.bms-wrapquerysearch {
+	margin: 20px 0 0 0;
+	padding: 0;
+	width: 100% !important; 
+	text-align: left;
+}
+
+.bms-inputquerysearch{
+	width: 85% !important; 
+	display: inline-block !important;
+	padding: 0; margin: 0;
+}
+
+.bms-aquerysearch {
+	display: inline-block !important; 
+	width: 10%; 
+	text-decoration: none !important; 
+	border: none !important;
+	padding: 0;margin: 0;
+	text-align: right;
+}
+.bms-pictobtsearch {
+	display: inline !important; 
+	text-align: right;
+	text-decoration: none !important; 
+	border: none !important;
+}
+/*--------------*/
+/* END CRITERIA */
+/*--------------*/
+
+/*-------------------*/
+/* SELECTED CRITERIA */
+/*-------------------*/
+.bms-rappel {
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+a.bms-selectedcritere {
+	display: block; display: none; width: 100%;
+	line-height: 30px; height: 30px;
+	margin: 0px 0px 15px 0px; 
+	padding: 0px;
+	text-decoration: none;
+	cursor: pointer;
+}
+a.bms-selectedcritere:hover {
+
+}
+a.bms-cancelselectedcritere {
+	display: block; display: none; height: 30px; width: 100%; line-height: 30px;
+	margin: 0px 0px 15px 0px; padding: 0px;
+	cursor: pointer;
+	text-align: center; 
+	font-size: 15px;
+}
+/*-----------------------*/
+/* END SELECTED CRITERIA */
+/*-----------------------*/
+
+
+/*-----------------*/
+/* END SEARCH ZONE */
+/*----------------*/
+
+/*----------------*/
+/* GRID           */
+/*----------------*/
+.site-content-bms {
+	margin: 0 auto;
+}
+
+.bms_content {
+	width: 100%;
+	margin: 0 auto; 
+}
+.ligne-bms { 
+	width: 100%;
+	max-width: 980px; 
+	margin: 0 auto; 
+}
+.ligne-bms .ligne-bms { 
+	min-width: 0; 
+}
+.ligne-bms .bms-search-wrap {
+	position: relative; 
+	padding: 0; margin: 10px 0 20px 0;
+	text-align: left;
+}
+.ligne-bms .bms-result-wrap {
+	text-align: left;
+	float: right;
+	margin: 10px 0 20px 0;
+	padding: 0;
+}
+.widget_beautiful-multiselect-search {
+	margin: 0; padding: 0;
+	text-align: left;
+}
+
+.ligne-bms:before, .ligne-bms:after { content:""; display:table; }
+.ligne-bms:after { clear: both; }
+.ligne-bms { zoom: 1; }
+
+/*----------------*/
+/* END GRID       */
+/*----------------*/
+
+	@media handheld, only screen and (max-width: 767px) {
+		.wrap-beautiful-multiselect-search {
+			width: 90%;
+			margin: 0px auto;
+			padding: 0px;
+		}
+		.ligne-bms {  /* la ligne passe de 1600px a 100% soit variable en dessous de la largeur de la fenetre en dessous de 767 px*/
+			width: 100%; 
+			min-width: 0; 
+			margin: 0; 
+		}
+		/* les colonnes ne sont plus flottantes comme pour la taille sup�rieure par d�faut */
+		.column, .columns { 
+			width: auto !important; /* la largeur des colonnes est auto donc elle s adpate a la largeur du contenant et les marges sont a l interieure  */
+			float: none; 
+			margin: 0; 
+		}
+		.ligne-bms .bms-search-wrap { 
+			float: none; 
+			width: 100% !important;
+			margin: 0;  
+		}
+		.ligne-bms .bms-search-wrap:before { 
+			content:""; 
+			display:table; 
+		}
+		.ligne-bms .bms-search-wrap:after { 
+			content:""; 
+			display:table; 
+			clear: both; 
+		}
+		.ligne-bms .bms-result-wrap { 
+			float: none; 
+			width: 100% !important;
+			margin-top: 20px;
+			padding: 0 5%;
+		}
+		.ligne-bms .bms-result-wrap:before { 
+			content:""; 
+			display:table; 
+		}
+		.ligne-bms .bms-result-wrap:after { 
+			content:""; 
+			display:table; 
+			clear: both; 
+		}
+		.bms-point-interrogation {
+			/* width: 9%; */
+		}
+
+	}

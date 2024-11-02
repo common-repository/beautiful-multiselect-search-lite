@@ -1,0 +1,69 @@
+.wrap {
+	margin: 20px auto 20px auto;
+	text-align: left;
+}
+.libmsadminmenu {
+	display: inline-block;
+	margin-right: 3px;
+}
+
+.libmsadminmenu a {
+	display: inline-block;
+	padding: 3px 10px;
+	background-color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+.libmsadminmenu a.selected {
+	border-style: solid;
+	border-width: 1px 1px 1px 1px;
+	padding: 7px 10px 3px 10px;
+	font-weight: bold;
+	border-radius: 4px 4px 0 0;
+}
+
+.advancedadminerror {
+	color: red;
+}
+
+li.faq {
+	list-style-type: circle; 
+	margin-left: 20px;
+}
+
+ul.faq{
+	margin-left: 20px;
+}
+
+.bms_nonactif {
+	color: #bbb;
+}
+
+/* GRID */
+
+.colonne {
+	display: inline-block;
+	margin: 2px auto;
+	text-align: left;
+	border: 1px solid #ccc;
+	padding: 0px 20px 10px 20px;
+	vertical-align: top;
+}
+
+.ligne {
+	border: 1px solid #ccc;
+	height: 1px;
+	width: 100%;
+}
+
+select {
+	vertical-align: top;
+}
+
+
+
+/* END GRID */ 
+
+/* FIN CSS ADMIN PLUGIN BEAUTIFUL MULTISELECT SELECT SEARCH */
+
